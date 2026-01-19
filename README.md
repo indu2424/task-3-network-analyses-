@@ -62,7 +62,10 @@ Task-3-Networking-Basics/
 - Developed the ability to analyze TCP, DNS, HTTP, and HTTPS traffic.
 - Understood the importance of encrypted communication.
 - Built a strong foundation for cybersecurity and SOC-related roles. 
-
+---
+**Author
+G.Indu Shree
+Msc CyberSecurity
 ---
 
 ## 📌 Notes
