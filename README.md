@@ -61,13 +61,7 @@ Task-3-Networking-Basics/
 - Gained hands-on experience with network traffic analysis.
 - Developed the ability to analyze TCP, DNS, HTTP, and HTTPS traffic.
 - Understood the importance of encrypted communication.
-- Built a strong foundation for cybersecurity and SOC-related roles.
-
----
-
-## 👩‍💻 Author
-**Indu Shree G**  
-Master’s Student – Cyber Security  
+- Built a strong foundation for cybersecurity and SOC-related roles. 
 
 ---
 
